@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yasamin! </h1> <br/> <p>Developer </p>,<p>Frontend Developer</p>
+<h1>Hi, I'm Yasamin! <br/> <p>Developer </p>,<p>Frontend Developer</p> </h1>
 
 <h2>👩🏻‍💻 Projects:</h2>
 
