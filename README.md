@@ -5,16 +5,13 @@
 - <b>Shopping cart project (HTML, CSS, SASS , JavaScript)</b>
   - (https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>clothes store project (HTML , CSS , SASS)</b>
-  -(https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 
 <h2>About Me</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to get into Cybersecurity Starting From Zero]
+- [A Day in the Life of a Cybersecurity Anayst]
 
 <h2> 🤳 Connect with me:</h2>
 
