@@ -5,7 +5,7 @@
 - <b>Shopping cart project (HTML, SCSS/SASS , JavaScript)</b>
   - ([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/yassaminp/shopping-cart.git))
 - <b>clothes store project (HTML , SCSS/SASS)</b>
-  - (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - https://github.com/yassaminp/clothes-store.git 
 
 
 <h2>About Me</h2>
