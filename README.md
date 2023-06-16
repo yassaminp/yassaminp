@@ -2,10 +2,10 @@
 
 <h2> Projects:</h2>
 
-- <b>Shopping cart project (HTML, CSS, SASS , Js)</b>
+- <b>Shopping cart project (HTML, CSS, SASS , JavaScript)</b>
   - (https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>clothes store project (HTML , CSS , SASS)</b>
-  -(https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  -(https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 
 <h2>About Me</h2>
@@ -22,10 +22,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
