@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yasamin! <br/><a href="https://github.com/joshmadakor1">Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Frontend Developer</a>
+<h1>Hi, I'm Yasamin! </h1> <br/> <p>Developer </p>,<p>Frontend Developer</p>
 
 <h2>👩🏻‍💻 Projects:</h2>
 
@@ -14,7 +14,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[instagram]: https://www.instagram.com/yassamin_p
 
