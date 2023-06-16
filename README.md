@@ -15,4 +15,4 @@
 <h2> 🤳 Connect with me:</h2>
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">http://linkedin.com/in/yasamin-poorhashemi-593a65150
-<br> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"> https://instagram.com/yassamin_p?igshid=OGQ5ZDc2ODk2ZA==
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"> https://instagram.com/yassamin_p?igshid=OGQ5ZDc2ODk2ZA==
