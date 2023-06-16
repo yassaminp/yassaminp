@@ -14,5 +14,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[instagram]: https://www.instagram.com/yassamin_p
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">http://linkedin.com/in/yasamin-poorhashemi-593a65150
 
